@@ -1,30 +1,11 @@
-### Hi there, I'm [Mateus Alcantara](https://matscript.com) 👋
+# Mateus Alcantara
 
-I am a Full Stack Developer who loves building varied products. I like to use my skills in ReactJS and NodeJS to create products who have potencial to help people lives become easier. Right now, I'm studying and developing my skills since september 2019. My latest web app was an application to manage the company JRM Compensados.
+Typescript Fullstack Developer (Nodejs and Reactjs)
 
-- 🔭 I’m currently working at JRM Compensados as a fullstack developer
-- 🌱 I’m currently learning Nextjs and Nodejs
-- ✨ I'm currently a student of Ignite Bootcamp by Rocketseat
-- ⚡ Fun fact: I'm studiyng web development **daily** since september 2019. My average time is 2.5 hours a day.
-
-**My Interests**:
-- Typescript
-- Reactjs
-- Nodejs
-- C++
-- React Native
-
-### My projects
-**JRM Compensados**: Web App created by me to manage the orders in my work. Front end was built with reactjs and backend with nodejs. I used typescript in both projects.
-
-## Connect with me:
-
-<p align = "center">
+[![Instagram Badge](https://img.shields.io/badge/Insta-%40mat.alcantara-%238a3ab9)](https://www.instagram.com/mat.alcantara) 
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-mat--alcantara-%230077b5)](https://www.linkedin.com/in/mat-alcantara/)
+[![HackerRank Badge](https://img.shields.io/badge/Hacker%20Rank-%40mateuscastro__al-%2339414E)](https://www.hackerrank.com/mateuscastro_al)
   
-[Website](https://www.matscript.com)
-  
-[Linkedin](https://www.linkedin.com/in/mat-alcantara/)
-  
-[Instagram](https://www.instagram.com/mat.alcantara)
-</p>
+Studying programming every single day since september 2019.
 
+Passionate about technology and programming. I like to use my skills to create products who have potencial to help people lives become easier.
