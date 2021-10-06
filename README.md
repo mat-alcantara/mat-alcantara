@@ -1,6 +1,6 @@
 # Mateus Alcantara
 
-Typescript Fullstack Developer (Nodejs and Reactjs)
+Backend Developer | Nodejs | Java (soon)
 
 [![Instagram Badge](https://img.shields.io/badge/Insta-%40mat.alcantara-%238a3ab9)](https://www.instagram.com/mat.alcantara) 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-mat--alcantara-%230077b5)](https://www.linkedin.com/in/mat-alcantara/)
